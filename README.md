@@ -10,7 +10,7 @@
 - **镜像源优化**：预置阿里云与腾讯云 Maven 镜像，中国大陆网络环境下无需科学上网即可快速解析依赖。
 - **本地化 Gradle User Home (`gradle_home`)**：Gradle 缓存、解压包及下载资源全部存放在项目根目录 `gradle_home/` 中，零占用 C 盘空间。
 - **自带 Mixin 支持**：已预配 SpongePowered Mixin 0.8.5 处理器及示例配置文件 `template_mod.mixins.json`。
-- **AI 技能库集成 (`MC-Skill`)**：保持与项目一体化的 MC 辅助开发 Skill。
+- **开源协议**：采用 [CC BY-NC 4.0](LICENSE) 协议，严格禁止商业用途，同时允许开源交流、学习与非商业二次开发。
 
 ---
 
