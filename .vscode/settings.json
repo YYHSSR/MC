@@ -1,0 +1,12 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "files.encoding": "UTF-8",
+    "java.import.gradle.user.home": "./gradle_home",
+    "java.import.gradle.arguments": "-g ./gradle_home",
+    "java.import.gradle.jvmArguments": "-Dgradle.user.home=./gradle_home",
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false,
+    "extensions.ignoreRecommendations": true,
+    "extensions.showRecommendationsOnlyOnDemand": true
+}
